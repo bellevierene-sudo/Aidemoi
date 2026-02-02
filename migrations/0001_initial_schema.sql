@@ -1,4 +1,4 @@
--- Categories table for  service types
+-- Categories table for service types
 CREATE TABLE IF NOT EXISTS categories (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name_en TEXT NOT NULL,
